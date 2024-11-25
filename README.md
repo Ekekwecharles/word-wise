@@ -78,16 +78,6 @@ Once you have installed the dependencies and started the development server, you
    http://localhost:3000
    ```
 
-3. Use the following features:
-
-- Login: username: jonas@example.com, password: pass0987
-- Dark Mode: Toggle the theme switcher to switch between light and dark modes.
-- Home: Data visualization of all the bookings for the last 7days, 30days and 90days
-- Bookings: Checkin, Checkout, Delete and navigate through the bookings
-- Cabins: Create, Edit, Delete and Duplicate Cabins
-- Users: Create new users. Users can only be created inside the app by a logged in staff or employee.
-- Settings: Edit/update the states for the booking
-
 ## Contributing
 
 Contributions are welcome and appreciated! To contribute, follow these steps:
