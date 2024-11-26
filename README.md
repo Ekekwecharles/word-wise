@@ -1,4 +1,4 @@
-# Rest Countries Api
+# World Wise
 
 An app for travelers to track all the cities they have been to on a map.
 
